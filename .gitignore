@@ -37,3 +37,5 @@ ehthumbs.db
 Thumbs.db
 
 adopt-me/node_modules/
+.cache/
+adopt-me/dist/
