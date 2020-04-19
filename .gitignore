@@ -39,3 +39,4 @@ Thumbs.db
 adopt-me/node_modules/
 .cache/
 adopt-me/dist/
+adopt-me/.vscode/
